@@ -1,10 +1,14 @@
 package com.example.myapplication;
 
+
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
 public class Main5Activity extends AppCompatActivity {
+
+    int a;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
